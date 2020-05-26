@@ -1,0 +1,24 @@
+E:\Projects\C#\YT\003\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+E:\Projects\C#\YT\003\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+E:\Projects\C#\YT\003\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+E:\Projects\C#\YT\003\MainApplication\MainApplication\bin\Debug\CustomControls.dll
+E:\Projects\C#\YT\003\MainApplication\MainApplication\bin\Debug\CustomControls.pdb
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.Form1.resources
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+E:\Projects\C#\YT\003\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\bin\Debug\MainApplication.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\bin\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\bin\Debug\MainApplication.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\bin\Debug\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\bin\Debug\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.Properties.Resources.resources
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.csproj.CopyComplete
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.exe
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\MainApplication\MainApplication\obj\Debug\MainApplication.MainForm.resources

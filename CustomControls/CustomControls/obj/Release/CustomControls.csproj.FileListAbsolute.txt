@@ -1,0 +1,11 @@
+E:\Projects\C#\YT\003\CustomControls\CustomControls\bin\Release\CustomControls.dll
+E:\Projects\C#\YT\003\CustomControls\CustomControls\bin\Release\CustomControls.pdb
+E:\Projects\C#\YT\003\CustomControls\CustomControls\obj\Release\CustomControls.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\003\CustomControls\CustomControls\obj\Release\CustomControls.dll
+E:\Projects\C#\YT\003\CustomControls\CustomControls\obj\Release\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\bin\Release\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\bin\Release\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\obj\Release\CustomControls.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\obj\Release\CustomControls.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\obj\Release\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\003 - Textbox with Watermark\CustomControls\CustomControls\obj\Release\CustomControls.pdb
